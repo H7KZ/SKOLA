@@ -32,3 +32,19 @@
 
 ## Český naturalismus
 
+- naturalismus = přírodovědecký pohled na člověka
+    - čl. předurčen prostředím a vrozenými vlastnostmi
+    - zájem o negativní společenské jevy
+- v českém prostředí nejprve "estetika ošklivosti" odmítá (ruchovci, lumírovci)
+- naturalismus doceněn modernou a realisty konce století
+    - **Alois** a **Vilém Mrštíkovi** (*Santa Lucia*), **Ignát Herrmann** (*U snedeného krámu*), **Josef Karel Šlejhar** (*Kuře melancholik*), nejvýrazněji **Karel Matěj Čapek-Chod**
+
+<br>
+
+## Realistická drama
+
+- konec 19. století
+- vliv ciziny (Rusko, Skandinávie)
+- zásadní význam Národního divadla (otevřeno 1881, 1883 (Po požáru)) -> Jaroslav Kvapil (režisér)
+- zejména venkovská tematika, kritika poměrů (sociální, morální)
+- autoři: **Ladislav Stroupežnický** - *Naši furianti*, **Alois** a **Vilém Mrštíkovi** - *Maryša*, **Gabriela Preissová** - *Její pastorkyňa*, *Gazdina roba*
