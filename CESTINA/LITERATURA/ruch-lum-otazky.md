@@ -27,145 +27,145 @@
 ### 9. Do jaké historické epochy se na své fantastické pouti dostane pan Brouček?
 - do 15. století
 
-### Co kritizuje Svatopluk Čech prostřednictvím pana Broučka?
+### 10. Co kritizuje Svatopluk Čech prostřednictvím pana Broučka?
 - humorné střety pražského měšťana s jinou realitou
 
-### Pobyt v jaké zemi významně ovlivnil J. V. Sládka?
+### 11. Pobyt v jaké zemi významně ovlivnil J. V. Sládka?
 - ve Spojených Státech (v Americe)
 
-### Kdo z této literární generace proslul svými překlady Shakespeara?
+### 12. Kdo z této literární generace proslul svými překlady Shakespeara?
 - Josef Václav Sládek
 
-### Kdo z této literární generace proslul jako operní libretista?
+### 13. Kdo z této literární generace proslul jako operní libretista?
 - Eliška Krásnohorská
 
-### Kdo z této literární generace je znám jako inovátor poezie pro děti?
+### 14. Kdo z této literární generace je znám jako inovátor poezie pro děti?
 - Josef Václav Sládek
 
-### Kdo z této literární generace proslul svým formálním básnickým mistrovstvím?
-- ? Jaroslav Vrchlický ?
-
-### Jaké životní pocity zachycují Vrchlického Okna v bouři?
-- Životní zklamání (básníkova žena měla milostný vztah k herci J.Seifertovi), citový otřes, krize osobnosti.
-
-### Uveďte některou z Vrchlického komedií.
-- Noc na Karlštejně, Soud lásky
-
-### Pod jakým jménem je ve světě literatury znám Emil Frida?
+### 15. Kdo z této literární generace proslul svým formálním básnickým mistrovstvím?
 - Jaroslav Vrchlický
 
-### Pod jakým jménem je ve světě literatury znám Antonín Zeman?
+### 16. Jaké životní pocity zachycují Vrchlického Okna v bouři?
+- Životní zklamání (básníkova žena měla milostný vztah k herci J.Seifertovi), citový otřes, krize osobnosti
+
+### 17. Uveďte některou z Vrchlického komedií.
+- Noc na Karlštejně, Soud lásky
+
+### 18. Pod jakým jménem je ve světě literatury znám Emil Frida?
+- Jaroslav Vrchlický
+
+### 19. Pod jakým jménem je ve světě literatury znám Antonín Zeman?
 - Antal Stašek
 
-### Na literaturu jakých národů se nejvíce zaměřoval Jaroslav Vrchlický?
+### 20. Na literaturu jakých národů se nejvíce zaměřoval Jaroslav Vrchlický?
 - ? Antika, renesance, středověk ?
 
-### Jakého původu byla rodina Julia Zeyera?
+### 21. Jakého původu byla rodina Julia Zeyera?
 - Francouzského původu
 
-### Charakterizujte jazyk děl Julia Zeyera.
+### 22. Charakterizujte jazyk děl Julia Zeyera.
 - symbolický, exkluzivní jazyk, stylizace (magie, okult.)
 
-### Který z prozaiků této generace má nejblíže k symbolismu a dekadenci?
+### 23. Který z prozaiků této generace má nejblíže k symbolismu a dekadenci?
 - Julius Zeyer
 
-### Osudy jakých národů jsou symbolicky ztvárněny v Třech legendách o krucifixu?
-- 
+### 24. Osudy jakých národů jsou symbolicky ztvárněny v Třech legendách o krucifixu?
+- v Praze, v Toledu a na Slovensku / téma národnostní, podruhé náboženské a potřetí sociální
 
-### Co je to vědecký pozitivismus?
+### 25. Co je to vědecký pozitivismus?
 - vycházení z faktů, jen to co je pravda
 
-### Co to byl spor o Rukopisy?
+### 26. Co to byl spor o Rukopisy?
 - Sporu mezi zastánci a odpůrci pravosti Rukopisu královédvorského a Rukopisu zelenohorského, T. G. Masaryk hlavní odpůrce, nakonec rukopisy jsou falza (nepravé)
 
-### Co najdeme v Ottově slovníku naučném? Kolik má toto dílo svazků? 
+### 27. Co najdeme v Ottově slovníku naučném? Kolik má toto dílo svazků? 
 - Česká encyklopedie obecných vědomostí, 27 svazků + 1 doplňkový
 
-### Jak souvisí realismus a věda?
+### 28. Jak souvisí realismus a věda?
 - ? Výrazný rozvoj věd od 80.let, odražení v literatuře, faktický pohled na věci ?
 
-### Uveďte dva odborné časopisy, které se u nás objevují na konci 19. století.
+### 29. Uveďte dva odborné časopisy, které se u nás objevují na konci 19. století.
 - Atheneum, Čas
 
-### Jaké byly nejoblíbenější epochy české historické prózy?
+### 30. Jaké byly nejoblíbenější epochy české historické prózy?
 - Husitství, pobělohorská doba
 
-### Uveďte alespoň tři díla od Aloise Jiráska.
+### 31. Uveďte alespoň tři díla od Aloise Jiráska.
 - Staré pověsti české, Mezi proudy, Proti všem, Bratrstvo, Temno
 
-### Jak se nazývá jediný román Zikmunda Wintera? Kdo je jeho hlavním hrdinou?
+### 32. Jak se nazývá jediný román Zikmunda Wintera? Kdo je jeho hlavním hrdinou?
 - Mistr Kampanus, humanistický básník Jan Kampanus Vodňanský
 
-### Proč kritici soudobých poměrů často sahají po látce z minulosti?
+### 33. Proč kritici soudobých poměrů často sahají po látce z minulosti?
 - Minulost jako paralela současnosti
 
-### Čím bývá charakteristický jazyk próz venkovského realismu?
+### 34. Čím bývá charakteristický jazyk próz venkovského realismu?
 - Regionální specifika, tradice, příroda
 
-### Jaké problémy jsou v realistické venkovské próze nejvíce akcentovány?
+### 35. Jaké problémy jsou v realistické venkovské próze nejvíce akcentovány?
 - Sociální problémy, nerovnost, bohatí x chudí, panstvo x lid, sňatky z rozumu, pro majetek, postavení žen
 
-### Jaké literární žánry jsou pro venkovskou realistickou prózu typické?
+### 36. Jaké literární žánry jsou pro venkovskou realistickou prózu typické?
 - Povídky, romány i románové kroniky
 
-### V jakém kraji se odehrává většina próz Terézy Novákové?
+### 37. V jakém kraji se odehrává většina próz Terézy Novákové?
 - Okolí Litomyšle a Proseče
 
-### V jakém kraji se odehrává většina próz Karla Václava Raise?
+### 38. V jakém kraji se odehrává většina próz Karla Václava Raise?
 - zaměřením na Hlinecko a Podkrkonoší
 
-### Kdo byli Raisovi Zapadlí vlastenci?
+### 39. Kdo byli Raisovi Zapadlí vlastenci?
 - Učitel Čížek, preceptor Čermák a farář Stehlík
 
-### Čím ve svém domově trpí Raisův sedlák Kaliba?
+### 40. Čím ve svém domově trpí Raisův sedlák Kaliba?
 - Provokací matky své manželky, záminka k žalobě na ublížení zdraví, když se vrací domů o den dřív z vězení vidí svou ženu s jiným milencem, jeho syn není jeho, manželku zabije a za pár dnů umírá také
 
-### Jak se generace ruchovců a lumírovců stavěla k naturalismu?
+### 41. Jak se generace ruchovců a lumírovců stavěla k naturalismu?
 - Nejprve ho odmítala, "estetika ošklivosti"
 
-### Charakterizujte naturalismus.
+### 42. Charakterizujte naturalismus.
 - přírodovědecký pohled na člověka
 
-### Odkud k nám naturalismus přišel?
+### 43. Odkud k nám naturalismus přišel?
 - z Francie, čl. předurčen prostředím a vrozenými vlastnostmi
 
-### U kterého českého autora je naturalismus nejvýraznější?
+### 44. U kterého českého autora je naturalismus nejvýraznější?
 - Alois a Vilém Mrštíkovi
 
-### Jaká scéna je nejvíce spojena s českým realistickým dramatem?
+### 45. Jaká scéna je nejvíce spojena s českým realistickým dramatem?
 - Ruská a Skandinávská
 
-### V jakých letech bylo otevřeno Národní divadlo?
+### 46. V jakých letech bylo otevřeno Národní divadlo?
 - 1881
 
-### Jak se jmenoval první dramaturg Národního divadla?
+### 47. Jak se jmenoval první dramaturg Národního divadla?
 - Ladislav Stroupežnický
 
-### Kde čerpalo naše realistické drama inspiraci?
+### 48. Kde čerpalo naše realistické drama inspiraci?
 - zejména venkovská tematika, kritika poměrů (sociální, morální)
 
-### Kdo je to furiant?
+### 49. Kdo je to furiant?
 - označení člověka, dávajícího přemrštěně najevo své sebevědomí a svoje možnosti, který musí být ve své komunitě ve všem první, mít poslední slovo, mít ve všem pravdu (i kdyby ji neměl)
 
-### V jakém prostředí se obvykle česká realistická dramata odehrávají?
+### 50. V jakém prostředí se obvykle česká realistická dramata odehrávají?
 - ? Na venkově ?
 
-### Jaké ladění mají divadelní hry Gabriely Preissové?
-- 
+### 51. Jaké ladění mají divadelní hry Gabriely Preissové?
+- tragické
 
-### Díky čemu jsou hry Gabriely Preissové ve světě známé?
+### 52. Díky čemu jsou hry Gabriely Preissové ve světě známé?
 - Byly na ně složeny opery
 
-### Jak hlavní hrdinka dramatu Maryša řeší svoji bezvýchodnou situaci?
+### 53. Jak hlavní hrdinka dramatu Maryša řeší svoji bezvýchodnou situaci?
 - Zabije Vávru kafem (nasype mu do kávy jed)
 
-### Kdo je vinen tragickým koncem Maryši?
-- 
+### 54. Kdo je vinen tragickým koncem Maryši?
+- vinna je Maryša, která se na konci knihy přizná
 
-### Jakým způsobem a z jakých důvodů odešel ze života Vilém Mrštík?
+### 55. Jakým způsobem a z jakých důvodů odešel ze života Vilém Mrštík?
 - Záchvaty melancholie a těžké deprese byly stále častější. V předjaří roku 1912 si v těžkém duševním rozpoložení ve sklípku u svého včelína prořízl hrdlo a probodl srdce.
 
-### Kdo napsal následující díla? Ve stínu lípy, Selské písně, Zlomky epopeje, Román o věrném přátelství Amise a Amila, Filosofská historie, Kuře melancholik, Jiří Šmatlán, Zapadlí vlastenci, Naši furianti, Santa Lucia, Její pastorkyňa
+### 56. Kdo napsal následující díla? Ve stínu lípy, Selské písně, Zlomky epopeje, Román o věrném přátelství Amise a Amila, Filosofská historie, Kuře melancholik, Jiří Šmatlán, Zapadlí vlastenci, Naši furianti, Santa Lucia, Její pastorkyňa
 - Ve stínu lípy - Svatopluk Čech
 - Selské písně - Josef Václav Sládek
 - Zlomky epopeje - Jaroslav Vrchlický
