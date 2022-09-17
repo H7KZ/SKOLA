@@ -30,35 +30,5 @@
                 }
             }
         }
-    },
-    "4": {
-        "year_name": "4",
-        "year_id": 4,
-        "subjects": {
-            "1": {
-                "subject_name": "Čeština",
-                "subject_id": 1,
-                "lessons": {
-                    "1": {
-                        "lesson_name": "Úvodní hodina",
-                        "lesson_id": 1,
-                        "lesson_hour": "1. hodina",
-                        "lesson_url": "http://www.google.com"
-                    }
-                }
-            },
-            "2": {
-                "subject_name": "APS",
-                "subject_id": 2,
-                "lessons": {
-                    "1": {
-                        "lesson_name": "Úvodní hodina",
-                        "lesson_id": 1,
-                        "lesson_hour": "1. hodina",
-                        "lesson_url": "http://www.google.com"
-                    }
-                }
-            }
-        }
     }
 }

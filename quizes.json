@@ -1,0 +1,32 @@
+{
+    "3": {
+        "year_name": "3",
+        "year_id": 3,
+        "subjects": {
+            "1": {
+                "subject_name": "CJL",
+                "subject_description": "Český jazyk a literatura",
+                "subject_id": 1,
+                "quizes": {
+                    "1": {
+                        "quiz_name": "Úvodní hodina",
+                        "quiz_id": 1,
+                        "quiz_url": "http://www.google.com"
+                    }
+                }
+            },
+            "2": {
+                "subject_name": "APS",
+                "subject_description": "Architektura počítačových systémů",
+                "subject_id": 2,
+                "quizes": {
+                    "1": {
+                        "quiz_name": "Úvodní hodina",
+                        "quiz_id": 1,
+                        "quiz_url": "http://www.google.com"
+                    }
+                }
+            }
+        }
+    }
+}
