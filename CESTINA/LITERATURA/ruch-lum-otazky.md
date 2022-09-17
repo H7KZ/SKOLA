@@ -127,7 +127,7 @@
 - přírodovědecký pohled na člověka
 
 ### 43. Odkud k nám naturalismus přišel?
-- z Francie, čl. předurčen prostředím a vrozenými vlastnostmi
+- z Francie
 
 ### 44. U kterého českého autora je naturalismus nejvýraznější?
 - Alois a Vilém Mrštíkovi
