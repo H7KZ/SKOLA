@@ -9,10 +9,10 @@
                 "subject_id": 1,
                 "lessons": {
                     "1": {
-                        "lesson_name": "Úvodní hodina",
+                        "lesson_name": "2. polovina 19. století",
                         "lesson_id": 1,
-                        "lesson_hour": "1. hodina",
-                        "lesson_url": "http://www.google.com"
+                        "lesson_hour": "X",
+                        "lesson_url": "CESTINA/LITERATURA/2pol19stol.md"
                     }
                 }
             },
