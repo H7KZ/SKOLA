@@ -22,7 +22,7 @@
     2. Propisky - ekonomické, hmotné, spotřeba
     3. Konvice - ekonomické, hmotné, použití
     4. Gravitační síla - volné, nehmotné, použití
-    5. Software - ekonomické, nehmotné, použití
+    5. PC Software - ekonomické, nehmotné, použití
 - 5x Služby
     1. Opera - osobní, průběh
     2. Postavit dům - věcné, výsledek
