@@ -31,3 +31,33 @@
     - formální hodnocení
     - soudně stíhán (urážka náboženství a morálky)
 - *Malé básně v próze* - posmrtně, momentky, vnitřní svět lze zachytit jen obrazně (symboly)
+
+## Paul Verlaine
+
+- 1844 - 1896
+- parnasistické začátky (*Saturnské básně*, *Galantní slavností*)
+- osudové seznámení s A. Rimbaudem (o deset let mladší) -> vzájemná inspirace, okouzlení, zničující životní styl, cesty po Evropě, hledání absolutní svobody, abs. umění, hádky, dramatický rozchod
+- vrcholné sbírky *Romance beze slov*, *Moudrost*
+- hudebnost, lyričnost, symbolika
+- střídání počestných a nezřízených životních etap
+- 1883 esej *prokletí básníci* (vznik pojmů)
+
+## Arthur Rimbaud
+
+- 1854 - 1891
+- talentované, ale nezvladatelné dítě
+- od 14 píše básně, 1870 kontaktuje Verlaina
+- *Opilý koráb* - debut v básnických kruzích
+- intenzivní vztah s V., 1893 jím postřelen
+- *Sezóna v pekle* (1873) - vyvrcholení tvorby i rozchod s poezií (tvořil mezi 15. a 18. rokem)
+- dobrodružný zbytek života (armáda, cirkus, obchod se zbraněmi v Etiopii), v 37 umírá na nádor v noze
+
+### Arthur Rimbaund - dílo
+
+- x patos romantismu, umělost parnalistů
+- snaha o novou básnickou řeč, rozrušení smyslů, pojmenování skryté skutečnosti, vůní, zvuků, barev
+- důraz na obraznost, fantazii
+- básník jako jasnovidec, rebel, nepřítel tradice
+- zásadní vliv na moderní poezii (od symbolisů po beatníky)
+- zásadní básně: *Opilý koráb*, *Moje bohéma*, *Samohlásky*, *Spáč v úvalu*, *Veřerní modlitba*
+- 1886 P. Verlaine vydává sb. *Iluminace*
