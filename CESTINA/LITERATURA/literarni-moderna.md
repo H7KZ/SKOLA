@@ -61,3 +61,22 @@
 - zásadní vliv na moderní poezii (od symbolisů po beatníky)
 - zásadní básně: *Opilý koráb*, *Moje bohéma*, *Samohlásky*, *Spáč v úvalu*, *Veřerní modlitba*
 - 1886 P. Verlaine vydává sb. *Iluminace*
+
+## Oscar Wilde
+
+- 1854 - 1900
+- prozaik, dramatik, básník, esejista
+- *Dublin, otec lékař, matka spisovatelka, aktivistka "Speranza"
+- studium v Oxfordu -> první verše, vliv dekadence, vyhraněné estetické názory, modeman ("dandy")
+- pobyt v USA, Kanadě i Francii
+- manželství s C. Lloydovou, 2 synové -> pohádky
+- oblíbený společník, pohotový vypravěč, fabulátor
+- divadelní kariéra, úspěch střída skandál
+- vězení, "vyhnanství" ve Francii, smrt v chudobě
+
+### Oscar Wilde - dílo
+
+- próza: *Strašidlo cantervillské*, *Štastný princ a jiné pohádky*
+- román: *Obraz Doriana Graye*
+- konverzační komedie: *Vějíř lady Windermerové*, *Ideální manžel*, *Jak je dúležité míti Filipa* - reflexe viktoriánské společnosti
+- tragédie: *Solome* (S. jedná vědomě, pomsta)
