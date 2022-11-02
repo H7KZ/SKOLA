@@ -80,3 +80,14 @@
 - román: *Obraz Doriana Graye*
 - konverzační komedie: *Vějíř lady Windermerové*, *Ideální manžel*, *Jak je dúležité míti Filipa* - reflexe viktoriánské společnosti
 - tragédie: *Solome* (S. jedná vědomě, pomsta)
+
+### Walt Whitman
+
+- 1819 - 1892
+- básník, povídkář, novinář
+- dětství a mládí na Long Islandu (USA) - chudoba, tuláctví, venkov i město, různá zaměstnání
+- víra v rovnost, demokracii, humanismus; kritika otrokářství, rasismu, egoismu, honby za ziskem
+- *Stébla trávy* - 1. vyd. (1855) 12 básní, postupně rozšířil na 396 (1892)
+- oslavy přírody, velkých lidských činů -> civilismus
+- patos řečníka, kadence lidového vypravěče
+- rozmáchlý volný verš
