@@ -22,3 +22,18 @@
 |právník    |dokumenty |počítač           |
 |programátor|kód       |programovací jazyk|
 |herec      |scénář    |jeviště           |
+|malíř      |plátno    |paleta            |
+|kuchař     |jídlo     |pec               |
+|číšník     |jídlo     |talíř             |
+|sportovec  |síla      |sportovní vybavení|
+|umělec     |nápad     |kreslící papír    |
+|filosof    |myšlenky  |papír             |
+|filmař     |film      |kamera            |
+|spisovatel |knížka    |papír             |
+|ekonom     |peníze    |počítač           |
+|politik    |voliči    |papír             |
+|novinář    |noviny    |papír             |
+|hudebník   |hudba     |nástroje          |
+|grafik     |nápad     |počítač           |
+|architekt  |nápad     |počítač           |
+|zahradník  |rostliny  |kosa              |
