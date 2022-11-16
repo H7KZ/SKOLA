@@ -35,3 +35,6 @@
 |grafik     |nápad     |počítač           |
 |architekt  |grafit    |pravítko          |
 |zahradník  |voda      |hodice            |
+|voják      |střelivo  |zbraň             |
+|sklenář    |písek     |plíce             |
+|automechani|součástky |nářadí            |
