@@ -13,27 +13,25 @@
 
 ### 20x pracovní proces
 |P. SÍLA    |PJS       |PPS               |
-|---|---|---|
+|---        |---       |---               |
 |švadlena   |látka     |šicí stroj        |
-|dřevorubec |dřevo     |pila              |
-|dělník     |cihly     |žebřík            |
-|učitel     |papír     |tabule            |
-|lékař      |pacient   |stetoskop         |
-|právník    |dokumenty |počítač           |
-|programátor|kód       |programovací jazyk|
-|herec      |scénář    |jeviště           |
+|dřevorubec |les       |pila              |
+|stavař     |cihly     |žebřík            |
+|učitel     |křídu     |tabule            |
+|lékař      |jehly     |stetoskop         |
+|právník    |propisky  |počítač           |
+|programátor|elektřina |počítač           |
 |malíř      |plátno    |paleta            |
-|kuchař     |jídlo     |pec               |
-|číšník     |jídlo     |talíř             |
-|sportovec  |síla      |sportovní vybavení|
+|pekař      |mouka     |pec               |
+|sportovec  |energie   |sportovní vybavení|
 |umělec     |nápad     |kreslící papír    |
 |filosof    |myšlenky  |papír             |
 |filmař     |film      |kamera            |
-|spisovatel |knížka    |papír             |
+|spisovatel |inkoust   |papír             |
 |ekonom     |peníze    |počítač           |
-|politik    |voliči    |papír             |
-|novinář    |noviny    |papír             |
-|hudebník   |hudba     |nástroje          |
+|politik    |peníze    |lidi              |
+|novinář    |zprávy    |papír             |
+|flétnista  |dech      |flétnu            |
 |grafik     |nápad     |počítač           |
-|architekt  |nápad     |počítač           |
-|zahradník  |rostliny  |kosa              |
+|architekt  |grafit    |pravítko          |
+|zahradník  |voda      |hodice            |
