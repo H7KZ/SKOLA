@@ -32,3 +32,13 @@
 - *Mstivá kantiléna* - téma nizozem. povstání proti Španělsku
 - známé básně: *Hrál kdosi na hoboj*, *Svou violu jsem naladil co možno nejhlouběji*
 
+## Česká moderna
+
+- na rozdíl od dekatentů zájem o politiku (kritický)
+- polemiky v časopisech Literární listy, Nivy, Rozhledy, Čas
+- x prazdný a zeslepený nacionalismus
+- přehodnocování nedávné (lit.) minulosti -> spor o Hálka
+- Manifest České moderny (1895, Rozhledy)
+- formulovali: J. S. Machar a F. X. Šalda, podepsali: A. Sova, O. Březina, F. V. Krejčí, V. Mrštík, J. K. Šlejhar
+- spíše tvůrčí východiska než umělecký program -> tvůrčí svoboda, indiv. styl, otevřenost cizím vlivům (inspirace, ne napodobování x lumírovci)
+- kritika mladočeské politiky, soucit s dělníky, všeobecné volební právo, tolerantní soužití s Němci
