@@ -42,3 +42,20 @@
 - formulovali: J. S. Machar a F. X. Šalda, podepsali: A. Sova, O. Březina, F. V. Krejčí, V. Mrštík, J. K. Šlejhar
 - spíše tvůrčí východiska než umělecký program -> tvůrčí svoboda, indiv. styl, otevřenost cizím vlivům (inspirace, ne napodobování x lumírovci)
 - kritika mladočeské politiky, soucit s dělníky, všeobecné volební právo, tolerantní soužití s Němci
+
+## Josef Svatopluk Machar
+
+- 1864 - 1942
+- básník, publicista, řečník, realista, ironik
+- *Kolín, gymnázium, bankovní úředník ve Vídni
+- publikuje v Herbenově *Času*, Masarykově *Nové době*
+- za 1. republiky od Masaryka ke krajní pravici
+- *Confiteor* - (ještě před maturitou) osobní vyznání
+- *Zde by měly kvést růže*, *Magdalena* - téma sociální, ženské
+- *Tristium Vindobona* - politcká poezie, kritika, výsměch morálce, národní symbolům
+- *Golgata* - historické paralely k součastnosti
+- bás. cyklus *Svědomím věků* (9 sb.) např. *V záři helénského slunce*, *Jed z Judey*
+
+## Antonín Sova
+
+- 1864 - 1928
