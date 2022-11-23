@@ -36,7 +36,26 @@
     - obyvatelstvo -> stát - daně
     - obyvatelstvo -> stát - pracovní síla
     - stát -> obyvatelstvo - veřejné statky a služby
+        - vzdělání
+        - zdravotní péče
+        - sociální dávky
+        - bezpečnost, policie, vojsko
+        - doprava
     - stát -> obyvatelstvo - práce ve státních institucích
 2. stát x podniky
-
+    - podniky -> stát - daně
+    - podniky -> stát - nabízení statky a služby
+    - stát -> podniky - veřejné statky a služby
+        - dotace
+        - podpora garantů
+        - hasiči
+        - policie
+        - osvětlení
+        - doprava
+        - údržba infrastruktury
+    - stát -> podniky - platí za statky a služby
 3. obyvatelstvo x podniky
+    - podniky -> obyvatelstvo - statky a služby
+    - podniky -> obyvatelstvo - pracovní pozice
+    - obyvatelstvo -> podniky - platí za statky a služby
+    - obyvatelstvo -> podniky - pracovní síla
