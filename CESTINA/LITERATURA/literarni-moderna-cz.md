@@ -59,3 +59,13 @@
 ## Antonín Sova
 
 - 1864 - 1928
+- básník (lyrický), prozaik
+- *Pacov, Lukavec, Písek (jižní Čechy) podpora Heyduka i Vrchlického (+ sestry)
+- signatuř MČM, po r. 1900 milostné i zdrav. problémy, básník uznávaný i ml. generacemi (10., 20. léta)
+- impresionismus - zejména přírodní lyrika -> *Květy intimních nálad*, *Z mého kraje*, *Soucit i vzdar*
+- *Zlomená duše* - deziluze, blízko k dekadenci
+- symbolismus - *Vybouřené smutky* - bojovné, sociální, *Údolí nového království* - vize očisty lidstva, sbratření (sociální spravedlost atd.)
+- *Ještě jednou se vrátíme* - milostná lyrika, vzpomínky, dávné touhy, melancholie
+- *Lyrika lásky a života* - milostná deziluze
+- prózy: *lvův román*, *Výpravy chudých*
+
