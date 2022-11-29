@@ -69,3 +69,15 @@
 - *Lyrika lásky a života* - milostná deziluze
 - prózy: *lvův román*, *Výpravy chudých*
 
+## Otokar Březina
+
+- 1868 - 1929
+- náš přední symbolista, lyrický básník, esejista
+- Počátky, Nová říše, Jaroměřice, samotářský život, vzdělání, lit. přehled
+- (jen) 5 sbírek (1895 - 1901), 1 kniha esejů; náročný styl, tajemství, náznaky, mystika; mezi alexandirnem a volným veršem
+- *Tajemné dálky* - obraz bídy, opuštění, viny
+- *Svítání na západě* - naděje v podobě víry (abstraktní)
+- *Větry od pólů*, *tavitelé chrámů* - bolest, smrt, ale též vize lidského spříznení, lepšího světa
+- *Ruce* - magický řetěz, jednota vesníru
+- *Hudba pramenů* - eseje - vl. básnické prózy
+- korespondence (F. Bílek, F. X. Šalda, A. Pammrová)
