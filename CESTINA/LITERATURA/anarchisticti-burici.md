@@ -27,3 +27,20 @@
 - *Bezedný rok*, *Zamořená léta*
 - vědeckypopulární práce: *Dějiny ženy*, *Dějiny lásky*
 
+## Fráňa Šrámek
+
+- 1877 - 1952
+- básník, prozaik, dramatik; *Sobotka, gym. v Písku, konflikty s vojskem
+- impresionismus (próza, drama), vitalismus
+- poezie: *Života bído, přec tě mám rád*, *Modrý a rudý* (protiválečné), *Splav* (milostné)
+- próza: *Prvních jednadvacet*, *Stříbrný vítr* (čistota mládí x pragmatická dospělost, impresionismus), *Tělo* (vitalismus, protiválečné), *Žasnoucí voják*
+- drama: *Léto* (mládí x měšťáci, nuda intelektuálů), *Mesíc nad řekou* (Písek, sjezd abiturientů x mládí)
+
+## František Gellner
+- 1881 - 1914
+- básník, prozaik, fejetonista, kreslíř
+- *Mladá Boleslav, neúspěšné studium techniky ve Vídni, malířství v Drážďanech, Paříži
+- působení v LN v Brně (1911 - 14) - fejetony, politika
+- smrt na haličské frontě
+- poezie - písňová forma, bez obrazných pojmenování, využití dobových populárních forem: kuplet, šanson
+- šokující otevřenost, milostná deziluze, noční život, cynismus (zakrývá skutečné city)
