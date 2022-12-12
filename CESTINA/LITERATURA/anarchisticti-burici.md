@@ -44,3 +44,12 @@
 - smrt na haličské frontě
 - poezie - písňová forma, bez obrazných pojmenování, využití dobových populárních forem: kuplet, šanson
 - šokující otevřenost, milostná deziluze, noční život, cynismus (zakrývá skutečné city)
+
+## Karel Toman
+- 1877 - 1946
+- básník (lyrik), novinář, překladatel
+- *Slánsko, v mládí anarchista, bohém, tulák (Německo, Holandsko, Francie, Anglie) x vztah k vlasti
+- za 1. sv. redaktor Národních listů, za 1. rep. v knihovně Národního shromáždění
+- propracovaná, vybroušená poezie, hutnost výrazu, tvůrčí kázeň, jamb, pravidelnost verše, melodičnost
+- sbírky: *Pohádky krve* (vliv dekadence), *Torzo života* (erotická, revoltující), *Melancholická pouť* (motivy cesty a svobody), *Sluneční hodiny* (tuláctví x domov)
+- *Měsíce* - metaforické básně, přír. dění, lidská práce, domov, venkov, válka, vlast; *Stoletý kalendár* (autoportrét)
