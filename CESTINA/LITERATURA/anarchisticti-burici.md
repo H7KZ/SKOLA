@@ -53,3 +53,15 @@
 - propracovaná, vybroušená poezie, hutnost výrazu, tvůrčí kázeň, jamb, pravidelnost verše, melodičnost
 - sbírky: *Pohádky krve* (vliv dekadence), *Torzo života* (erotická, revoltující), *Melancholická pouť* (motivy cesty a svobody), *Sluneční hodiny* (tuláctví x domov)
 - *Měsíce* - metaforické básně, přír. dění, lidská práce, domov, venkov, válka, vlast; *Stoletý kalendár* (autoportrét)
+
+## Victor Dyk
+- 1877 - 1931
+- básník, dramatik, prozaik; prívník a politik
+- romantik, idealista i satirický kritik
+- krátký strohý nemelodický verš
+- kritika "malého českého člověka"
+- *A porta inferni*, *Buřiči* (generační vyjádření)
+- *Satiry a sarkasmy*, *Pohádky z naší vesnice* (kritičnost)
+- *Milá sedmi loupežníků* - poema, vliv romantismu a dekadence, polematika s invidualismem
+- *Zmoudření Dona Quijota* - problémové drama
+- *Krysař* - novela na zákl. něm. pověsti, novoklasicismus
