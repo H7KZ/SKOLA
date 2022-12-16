@@ -1,4 +1,4 @@
-## <div style="display: flex; justify-content: space-between;"><div>13-14. hodina</div><div>2.12.</div></div>
+## <div style="display: flex; justify-content: space-between;"><div>17-18. hodina</div><div>2.12.</div></div>
 # <div style="text-align: center">Administrativní kroky k podnikání</div>
 
 ## Podnikatelská etika
