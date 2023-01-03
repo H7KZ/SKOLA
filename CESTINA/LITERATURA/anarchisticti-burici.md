@@ -65,3 +65,13 @@
 - *Milá sedmi loupežníků* - poema, vliv romantismu a dekadence, polematika s invidualismem
 - *Zmoudření Dona Quijota* - problémové drama
 - *Krysař* - novela na zákl. něm. pověsti, novoklasicismus
+
+## Petr Bezruč
+- 1867 - 1958
+- literární stylizace, "slezecký bard"
+- básně zasílané v I. 1899 - 1904 do Herbenova Času -> senzace, pátrání po autorovi -> Slezské písně
+- Vladimír Vašek - *Opava, studia v Praze, pošt. úředník v Brně, 1891-3 v Místku, přátesltví s O. B. Petrem
+- poezie: obraz soc. a nár. útisku na Ostravsku, tragiscké osudy, soc. balady, útok na slez. uhlobarony i praž. vlastence
+- syntéze buditelských tradic, machar. realismu, sociálního symbolismu, dekadence i buřičství
+- úsečnost, patos, ironie, nadsázka, dialektismy
+- básně: *Červený květ*, *Škaredý zjev*, *Kantor Halfar*, *Maryčka Magdonova*, *Ostrava* aj.
