@@ -1,5 +1,5 @@
 ## <div style="display: flex; justify-content: space-between;"><div>23-24. hodina</div><div>6.1.</div></div>
-# <div style="text-align: center">vObchodní a manžerské yjednávání</div>
+# <div style="text-align: center">vObchodní a manžerské vyjednávání</div>
 
 ## Vyjednávání
 Vyjednávání je proces, kdy dvě nebo více stran hledají řešení, které by bylo přijatelné pro všechny zúčastněné.
